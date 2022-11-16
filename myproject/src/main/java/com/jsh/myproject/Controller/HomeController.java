@@ -22,7 +22,7 @@ public class HomeController {
 	@Autowired
 	private SqlSession sqlSession;
 	
-	
+	//브랜치 테스트
 	@RequestMapping(value="/")
 	public String main(HttpServletRequest request) {
 		
