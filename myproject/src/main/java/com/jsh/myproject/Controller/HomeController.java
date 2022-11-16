@@ -24,7 +24,7 @@ public class HomeController {
 	
 	//브랜치 테스트
 	//브랜치 테스트2
-	//??
+	//왜안되냐
 	@RequestMapping(value="/")
 	public String main(HttpServletRequest request) {
 		
